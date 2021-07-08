@@ -106,6 +106,7 @@ checked.
 
 
 Collections
+
 9. Write a Java program to create a new array list, add some colors (string) and perform the
 following operations:
 (i) Add elements of List to ArrayList
