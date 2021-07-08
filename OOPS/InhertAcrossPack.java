@@ -1,7 +1,7 @@
 package oopsj.OOPS;
 
-import com.company.CSE.ThirdSem;
-import com.company.RVCE.CseDept;
+import oopsj.CSE.ThirdSem;
+import oopsj.RVCE.CseDept;
 
 public class InhertAcrossPack {
 
